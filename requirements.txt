@@ -1,0 +1,13 @@
+streamlit
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-groq==0.3.2
+langgraph
+chromadb
+sentence-transformers
+yfinance
+duckduckgo-search
+pymupdf
+python-dotenv
+pandas
+plotly
