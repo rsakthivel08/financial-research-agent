@@ -1,4 +1,4 @@
-# Financial Research Agent 📈
+# Financial Research Agent 
 
 An Agentic RAG system that analyzes stocks and produces investment reports
 using LangGraph, Groq, Tavily search, and yfinance.
